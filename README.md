@@ -1,4 +1,3 @@
-Certainly! Here's a README template for your Keylogger project that you can use for your GitHub repository:
 Keylogger Project
 Overview
 
@@ -48,8 +47,5 @@ Contribution
 
 Feel free to fork the repository and submit pull requests if you have improvements or additional features you’d like to contribute.
 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
 
 For any questions or comments, please contact me at dominicbass096@gmail.com
